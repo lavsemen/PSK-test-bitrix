@@ -1,0 +1,3 @@
+<?php
+define("SM_VERSION", "21.1200.900");
+define("SM_VERSION_DATE", "2022-03-30 17:23:27"); // YYYY-MM-DD HH:MI:SS

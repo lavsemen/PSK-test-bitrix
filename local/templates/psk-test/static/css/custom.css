@@ -3,3 +3,13 @@
   top: 0;
   width: 100%;
 }
+
+.form__field .error {
+  font-size: 12px;
+  color: red;
+  display: none;
+
+}
+.form__field .error.active {
+  display: block;
+}

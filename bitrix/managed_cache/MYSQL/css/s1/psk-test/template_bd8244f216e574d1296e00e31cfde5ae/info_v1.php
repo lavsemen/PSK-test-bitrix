@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/templates/psk-test/static/css/main.css" => "1648932181215138","/local/templates/psk-test/static/css/custom.css" => "1648980784182",]; ?>

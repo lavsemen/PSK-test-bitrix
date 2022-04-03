@@ -69,7 +69,7 @@ $this->setFrameMode(true);
                 </div>
 
                 <div class="card__button">
-                  <button data-bs-toggle="modal" data-bs-target="#callback">Узнать цену</button>
+                  <button id="callbackModal" data-bs-toggle="modal" data-apartment-id="<?=$arItem['ID']?>" data-bs-target="#callback">Узнать цену</button>
                 </div>
               </div>
             </div>

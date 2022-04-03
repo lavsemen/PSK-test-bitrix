@@ -1,8 +1,8 @@
 <?
 if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001648939620';
-$dateexpire = '001684939620';
-$ser_content = 'a:2:{s:7:"CONTENT";s:2325:"
+$datecreate = '001648980852';
+$dateexpire = '001684980852';
+$ser_content = 'a:2:{s:7:"CONTENT";s:2366:"
 <div class="cards">
            
       <div class="cards__item">
@@ -45,7 +45,7 @@ $ser_content = 'a:2:{s:7:"CONTENT";s:2325:"
                 </div>
 
                 <div class="card__button">
-                  <button data-bs-toggle="modal" data-bs-target="#callback">Узнать цену</button>
+                  <button id="callbackModal" data-bs-toggle="modal" data-apartment-id="1" data-bs-target="#callback">Узнать цену</button>
                 </div>
               </div>
             </div>

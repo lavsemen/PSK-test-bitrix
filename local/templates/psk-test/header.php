@@ -18,6 +18,7 @@ use Bitrix\Main\Page\Asset;
        <? Asset::getInstance()->addCss(SITE_TEMPLATE_PATH . "/static/css/custom.css"); ?>
 
        <? Asset::getInstance()->addJs(SITE_TEMPLATE_PATH . '/static/js/main.js'); ?>
+       <? Asset::getInstance()->addJs(SITE_TEMPLATE_PATH . '/static/js/custom.js'); ?>
 
        
         <meta charset="UTF-8">
